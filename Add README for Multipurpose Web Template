@@ -1,0 +1,36 @@
+# Clean Personal Website User Interface
+A flexible and modern multipurpose website template designed using HTML, CSS, and Bootstrap. Suitable for business websites, portfolios, agencies, or landing pages.
+
+## 🚀 Live Demo
+
+👉 [https://incomparable-starlight-9617f6.netlify.app/](https://incomparable-starlight-9617f6.netlify.app/)
+
+## ✨ Features
+
+- Fully responsive layout
+- Clean and multipurpose design
+- Easy to customize content
+- Bootstrap-powered components
+- Includes sections like Hero, About, Services, and Contact
+
+## 📁 Folder Structure
+
+
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── main.js
+├── images/
+│ └── ...
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
+
+## 📬 Contact
+
+Feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/إبراهيم-مختار-5a3180298)
